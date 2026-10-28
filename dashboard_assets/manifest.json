@@ -1,0 +1,119 @@
+{
+  "2c2p": {
+    "website": "https://2c2p.com",
+    "asset_url": "https://prod-2c2pwebsite.2c2p.com/wp-content/uploads/2025/10/29110349/cropped-Favicon-180x180.png",
+    "file": "2c2p.png"
+  },
+  "adyen": {
+    "website": "https://www.adyen.com",
+    "asset_url": "https://www.adyen.com/favicon.ico",
+    "file": "adyen.png"
+  },
+  "paypal-braintree": {
+    "website": "https://www.paypal.com",
+    "asset_url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp114.png",
+    "file": "paypal-braintree.png"
+  },
+  "xendit": {
+    "website": "https://www.xendit.co",
+    "file": "xendit.svg",
+    "note": "Brand mark for identification; trademark belongs to its owner.",
+    "asset_url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xendit.svg"
+  },
+  "doku": {
+    "website": "https://www.doku.com",
+    "asset_url": "https://cdn.prod.website-files.com/674ab654de930b217c6389c1/6abdd3731b75a693d07c284c_6756a9f7ba44cad5543f87e2_doku-logo-red.png",
+    "file": "doku.png"
+  },
+  "stripe": {
+    "website": "https://stripe.com",
+    "asset_url": "https://images.stripeassets.com/fzn2n1nzq965/4vVgZi0ZMoEzOhkcv7EVwK/8cce6fdcf2733b2ec8e99548908847ed/favicon.png?w=180&h=180",
+    "file": "stripe.png"
+  },
+  "paymongo": {
+    "website": "https://www.paymongo.com",
+    "asset_url": "https://www.paymongo.com/apple-icon.png?62bb1b201cd0ad5f",
+    "file": "paymongo.png"
+  },
+  "omise-opn": {
+    "website": "https://www.omise.co",
+    "asset_url": "https://cdn.prod.website-files.com/67481ca1f2e8301c5e5e3895/67b31dccf355a66a3924d211_favicon-256.png",
+    "file": "omise-opn.png"
+  },
+  "global-payments-worldpay": {
+    "website": "https://www.worldpay.com",
+    "asset_url": "https://www.worldpay.com/favicon.ico",
+    "file": "global-payments-worldpay.png"
+  },
+  "standard-chartered": {
+    "website": "https://www.sc.com",
+    "asset_url": "https://www.sc.com/favicon.ico",
+    "file": "standard-chartered.png"
+  },
+  "hsbc": {
+    "website": "https://www.hsbc.com",
+    "asset_url": "https://www.hsbc.com/apple-touch-icon-precomposed.png",
+    "file": "hsbc.png"
+  },
+  "dbs": {
+    "website": "https://www.dbs.com",
+    "asset_url": "https://www.dbs.com.sg/_next/public/favicon.ico?q=f1fda2be-8a7d-437a-8745-ad642af81287",
+    "file": "dbs.png"
+  },
+  "ghl-systems": {
+    "website": "https://www.ghl.com",
+    "file": "ghl-systems.png",
+    "note": "GHL company logo reproduced in BusinessWorld company news coverage.",
+    "asset_url": "https://www.bworldonline.com/wp-content/uploads/2023/08/GHL-logo.jpg"
+  },
+  "deutsche-bank": {
+    "website": "https://www.db.com",
+    "asset_url": "https://prod2.master.dwebcms.db.com/application/themes/default/favicon/apple-touch-icon.png",
+    "file": "deutsche-bank.png"
+  },
+  "cimb": {
+    "website": "https://www.cimb.com",
+    "asset_url": "https://www.cimb.com/content/dam/cimb/favicon/apple-touch-icon-114x114.png",
+    "file": "cimb.png"
+  },
+  "jpmorgan": {
+    "website": "https://www.jpmorgan.com",
+    "asset_url": "https://www.jpmorgan.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpm/images/jpm-favicon-120.png",
+    "file": "jpmorgan.png"
+  },
+  "citi": {
+    "website": "https://www.citigroup.com",
+    "asset_url": "https://www.citigroup.com/global/citigroup-ui/akpublic/images/gpa_favicon.ico",
+    "file": "citi.png"
+  },
+  "uob": {
+    "website": "https://www.uobgroup.com",
+    "asset_url": "https://www.uobgroup.com/favicon.ico",
+    "file": "uob.png"
+  },
+  "bca": {
+    "website": "https://www.bca.co.id",
+    "asset_url": "https://www.bca.co.id/homepage/assets/images/favicon-bca.png?v=202610271123",
+    "file": "bca.png"
+  },
+  "kbank": {
+    "website": "https://www.kasikornbank.com",
+    "asset_url": "https://www.kasikornbank.com/favicon.ico",
+    "file": "kbank.png"
+  },
+  "vietcombank": {
+    "website": "https://www.vietcombank.com.vn",
+    "asset_url": "https://www.vietcombank.com.vn/-/media/Default-Website/Default-Images/Icons/favicon.ico?ts=00010101000000",
+    "file": "vietcombank.png"
+  },
+  "ocbc": {
+    "website": "https://www.ocbc.com",
+    "asset_url": "https://www.ocbc.com/favicon.ico",
+    "file": "ocbc.png"
+  },
+  "bdo-unibank": {
+    "website": "https://www.bdo.com.ph",
+    "asset_url": "https://www.bdo.com.ph/favicon.ico",
+    "file": "bdo-unibank.png"
+  }
+}

@@ -1,0 +1,20 @@
+[project]
+name = "corporate-banking-research"
+version = "0.1.0"
+description = "LangGraph competitor research learning scaffold"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=1.0,<2.0",
+    "tavily-python>=0.7,<1.0",
+    "langchain-nebius>=0.1,<1.0",
+    "httpx>=0.28,<1.0",
+    "python-dotenv>=1.0,<2.0",
+    "langgraph-checkpoint-sqlite>=3,<4",
+    "streamlit>=1.66,<2",
+]
+
+[dependency-groups]
+dev = [
+    "playwright>=1.64.1",
+]
+

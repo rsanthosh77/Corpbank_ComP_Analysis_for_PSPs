@@ -1,0 +1,34 @@
+[server]
+address = "127.0.0.1"
+headless = true
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#087F76"
+backgroundColor = "#F6F8FA"
+secondaryBackgroundColor = "#EEF2F5"
+textColor = "#172B42"
+font = "Inter"
+headingFont = "Manrope"
+baseRadius = "0.65rem"
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter.ttf"
+weight = "100 900"
+
+[[theme.fontFaces]]
+family = "Manrope"
+url = "app/static/fonts/manrope.ttf"
+weight = "200 800"
+
+[theme.sidebar]
+backgroundColor = "#102238"
+secondaryBackgroundColor = "#1B334C"
+textColor = "#DBE5EF"
+primaryColor = "#76D8C3"
+font = "Inter"
